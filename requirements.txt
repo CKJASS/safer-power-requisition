@@ -1,3 +1,0 @@
-Flask
-gunicorn
-Flask-SQLAlchemy
